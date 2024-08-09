@@ -1,0 +1,32 @@
+We are trying to find some optimal trajectories that NASA is interested in.
+They want to send some spacecraft missions to Jupiter, to Jupiter’s moon.
+This grant, it's a collaboration with Georgia Institute of Technology,
+and with Jet Propulsion Laboratory.
+It has two objectives. One, it’s research, and one,
+it’s training of students and young scientists.
+Well I’ve liked astronomy since I was a kid.
+Enough to get my Master degree in mathematics,so this is a perfect stream for me to enter.
+This particular three body problem is the sun, Jupiter,
+and a comet that has been observed near both the sun and Jupiter called Oterma.
+We want to know, how does Oterma move under the influence of gravity?
+I’m working on the trajectory design of a spacecraft close to the asteroid.
+There are locations in space where
+the gravitational forces almost cancel each other,
+and so the spacecraft would be at an equilibrium.
+It’s possible to find routes, that they do not need any fuel for the spacecraft
+to follow those particular routes.
+Sometimes they are called gravitational super highways.
+But when you make a transition from one highway to another, you have to spend some fuel.
+And the idea is how to do it in an optimal way.
+This Arnold Diffusion Problem, it’s really how to
+make large changes with small perturbations.
+Like when you’re pushing a swing. If you do it with proper timing,
+the amplitude of the swing grows bigger and bigger.
+So now instead of pushing the swing, you have the thrusters of the spacecraft,
+but you have to do it at the proper timing in order to maximize the effect.
+I like it because before I did this I was more, like, very theoretical math.
+There’s a lot of theory behind it,
+but it’s also kind of interesting because we’re talking about real life things.
+I think it’s quite exciting to see that abstract mathematics,
+that you are actually teaching in the classroom, has such powerful applications.
+I think this connection between research and teaching, it’s very important.
